@@ -9,6 +9,8 @@
     It should be a string containing your best definition of what Git is.
 */
 
+var gitDefinition = "Git is a terminal that allows you to post your work to GitHub"
+
 //CODE HERE
 
 //////////////////PROBLEM 2////////////////////
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+var gitHubDefinition = "GitHub is a place where coders can share, save and work together on any of their projects."
 
 //////////////////PROBLEMS 3 - 9////////////////////
 /*

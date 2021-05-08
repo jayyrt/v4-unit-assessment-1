@@ -191,6 +191,8 @@ let secondFunctionScope = ['global', 'inner', 'outer', 'functional']
 
 //CODE HERE
 
+function isItBob ()
+
 //////////////////PROBLEM 17////////////////////
 /*
   Write a function called giveMeDoubles that takes in two arguments: an array of numbers and a callback.  
@@ -199,6 +201,8 @@ let secondFunctionScope = ['global', 'inner', 'outer', 'functional']
 */
 
 //CODE HERE
+
+function giveMeDoubles([1, 2, 3, 4], cb)
 
 //////////////////PROBLEM 18////////////////////
 /*
