@@ -1,0 +1,62 @@
+
+main {
+ display: flex;
+ height: auto;
+ width: auto;
+ padding: 10px;
+ background-color: rgb(247, 212, 17);
+ font-size: 40px;
+ border: 1px solid black;
+}
+
+.title {
+ padding: center;
+ font-weight: bold;
+}
+
+.title-links {
+ height: auto;
+ width: auto;
+ margin: 10px;
+ padding: 4px;   
+ font-size: 20px;
+ align-content: center;
+}
+
+.first-content {
+height: auto;
+width: auto;
+padding: 60px;
+background-color: white;
+border: 5px dotted black;
+font-size: 20px;
+margin: 10px;
+}
+
+.second-content {
+ height: auto;
+ width: auto;
+ padding: 60px;
+ background-color: white;
+ border: 5px dotted black;
+ font-size: 20px;
+ margin: 10px;
+}
+
+.pic-one{
+ float: left;
+ height: 100px;
+ width: 100px;
+ padding: 10px;
+}
+
+.pic-two{
+ height: 130px;
+ width: 160px;   
+ float: right;
+}
+
+.headers {
+ font-size: 30px;
+ font-weight: bold;
+}
