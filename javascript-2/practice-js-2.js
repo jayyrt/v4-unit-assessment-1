@@ -37,6 +37,11 @@ var gitHubDefinition = "GitHub is a place where coders can share, save and work 
     following the guidelines above to describe the init command.
 */
 
+var init = {
+    description: 'Git will begin to watch all the files and directories in that location',
+    code: 'git init', 
+}
+
 //CODE HERE
 
 //////////////////PROBLEM 4////////////////////
@@ -47,11 +52,21 @@ var gitHubDefinition = "GitHub is a place where coders can share, save and work 
 
 //CODE HERE
 
+var clone = {
+    description: 'To make a copy of an existing repository on GitHub',
+    code: 'git clone "url for github repo"',
+}
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create an object called 'status' with 'description' and 'code' properties 
     following the guidelines above to describe the status command.
 */
+
+var status = {
+    description: 'A command to check where you are on the steps to pushing your work to GitHub',
+    code: 'git status',
+}
 
 //CODE HERE
 
@@ -63,6 +78,11 @@ var gitHubDefinition = "GitHub is a place where coders can share, save and work 
 
 //CODE HERE
 
+var add = {
+    description: 'A command to track any changes that have been made, this is the first step to pushing your code to GitHub',
+    code: 'git add .',
+}
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create an object called 'commit' with 'description' and 'code' properties
@@ -70,6 +90,11 @@ var gitHubDefinition = "GitHub is a place where coders can share, save and work 
 */
 
 //CODE HERE
+
+var commit = {
+    description: 'commits are check points or save points, it saves your work to GitHub and it is the final step you take before pushing your work',
+    code: 'git commit -m "any name"',
+}
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -79,6 +104,11 @@ var gitHubDefinition = "GitHub is a place where coders can share, save and work 
 
 //CODE HERE
 
+var addRemote = {
+    description: '',
+    code: '',
+}
+
 //////////////////PROBLEM 9////////////////////
 /*
     Create an object called 'push' with 'description' and 'code' properties 
@@ -86,3 +116,8 @@ var gitHubDefinition = "GitHub is a place where coders can share, save and work 
 */
 
 //CODE HERE
+
+var push = {
+    description: 'This is the final step you take to publish your code onto GitHub',
+    code: 'git push origin master'
+}
