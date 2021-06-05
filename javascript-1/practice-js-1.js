@@ -2,7 +2,7 @@
 /* Create a variable called 'myName' with a value that is your name as a string. */
 
 //CODE HERE 
-var myName = "Kenia";
+var myName = 'Kenia';
 
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
@@ -23,7 +23,9 @@ var lovesCode = true;
 */
 
 //CODE HERE
-function sum(num1, num2);
+function sum(num1, num2) {
+  return num1 + num2
+}
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -34,8 +36,8 @@ function sum(num1, num2);
 */
 
 //CODE HERE
-function trueOrFalse(){
-  let data
+function trueOrFalse(data){
+  
 }
 
 //////////////////PROBLEM 6////////////////////
@@ -47,7 +49,9 @@ function trueOrFalse(){
 */
 
 //CODE HERE
-function oddChecker()
+function oddChecker(num){
+  
+}
 
 //////////////////PROBLEM 7////////////////////
 /*
