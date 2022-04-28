@@ -8,6 +8,7 @@
 }
 
 .rectangles {
+ box-sizing: border-box;
  height: auto;
  width: auto;
  padding: 30px;

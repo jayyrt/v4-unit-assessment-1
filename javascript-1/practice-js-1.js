@@ -62,12 +62,17 @@ function oddChecker(num){
 
 //CODE HERE
 
+function iLove(name, love){
+  
+}
+
 //////////////////PROBLEM 8////////////////////
 /* Create a copy of the faveColors array called 'colorCopy' using the slice method. */
 
 const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
+
 var colorCopy = faveColors.slice(0,2)
 
 //////////////////PROBLEM 9////////////////////

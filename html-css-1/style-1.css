@@ -59,4 +59,9 @@ margin: 10px;
 .headers {
  font-size: 30px;
  font-weight: bold;
+ clear: left;
+}
+
+p {
+    text-align: left;
 }
