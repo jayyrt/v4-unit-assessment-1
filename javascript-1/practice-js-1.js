@@ -2,19 +2,22 @@
 /* Create a variable called 'myName' with a value that is your name as a string. */
 
 //CODE HERE 
-var myName = 'Kenia';
+
+
 
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
 //CODE HERE
-var faveNum = 23;
+
+
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
 //CODE HERE
-var lovesCode = true;
+
+
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -23,9 +26,8 @@ var lovesCode = true;
 */
 
 //CODE HERE
-function sum(num1, num2) {
-  return num1 + num2
-}
+
+
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -36,9 +38,8 @@ function sum(num1, num2) {
 */
 
 //CODE HERE
-function trueOrFalse(data){
-  
-}
+
+
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -49,9 +50,8 @@ function trueOrFalse(data){
 */
 
 //CODE HERE
-function oddChecker(num){
-  
-}
+
+
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -62,9 +62,7 @@ function oddChecker(num){
 
 //CODE HERE
 
-function iLove(name, love){
-  
-}
+
 
 //////////////////PROBLEM 8////////////////////
 /* Create a copy of the faveColors array called 'colorCopy' using the slice method. */
@@ -73,13 +71,14 @@ const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
 
-var colorCopy = faveColors.slice(0,2)
+
 
 //////////////////PROBLEM 9////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 //CODE HERE
-colorCopy.push('yellow')
+
+
 
 //////////////////PROBLEM 10////////////////////
 /*
@@ -91,7 +90,7 @@ const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
 
-const middleNums = [2, 3, 4]
+
 
 //////////////////PROBLEM 11////////////////////
 /*
@@ -109,12 +108,6 @@ const middleNums = [2, 3, 4]
 
 //CODE HERE
 
-var me = {
-  firstName: 'Kenia',
-  state: 'Utah',
-  age: 28,
-  greeter: 'Hello! My name is' + firstName + ' ' +'and I live in' + state,
-}
 
 
 //////////////////PROBLEM 12////////////////////
@@ -131,8 +124,8 @@ var me = {
 */
 
 // CODE HERE
-function bigOrSmall(arr)
- let answers = []
+
+
 
 //////////////////PROBLEM 13////////////////////
 /* 
@@ -145,6 +138,8 @@ function bigOrSmall(arr)
 */
 
 //CODE HERE
+
+
 
 //////////////////PROBLEM 14////////////////////
 
@@ -190,6 +185,8 @@ let secondFunctionScope = ['global', 'inner', 'outer', 'functional']
 
 //CODE HERE
 
+
+
 //////////////////PROBLEM 16////////////////////
 /* 
   Write a function called isItBob that takes in two arguments: an object and a callback function. 
@@ -200,7 +197,7 @@ let secondFunctionScope = ['global', 'inner', 'outer', 'functional']
 
 //CODE HERE
 
-function isItBob ()
+
 
 //////////////////PROBLEM 17////////////////////
 /*
@@ -211,7 +208,7 @@ function isItBob ()
 
 //CODE HERE
 
-function giveMeDoubles([1, 2, 3, 4], cb)
+
 
 //////////////////PROBLEM 18////////////////////
 /*
